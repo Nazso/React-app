@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Appointment at Doctor",
+      "day": "Jan 10th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Play Bowling",
+      "day": "Jan 23th at 6:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meeting at Work",
+      "day": "Feb 19th at 9:30am",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Relax",
+      "day": "Jan 16th at 8:40pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Jogging in tha Park",
+      "day": "Jan 9th at 5:30am",
+      "reminder": false
+    },
+    {
+      "text": "ABrakadabra",
+      "day": "Now and later",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
